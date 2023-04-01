@@ -1,7 +1,7 @@
 # Amazon-Sales-Report
 This is a short task to analyze the Amazon Sale Report of India. The data was downloaded from Kaggle.com [link](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data), and it repesents the sales in the second quarter of the year between latest March 2022 to the 1st of July 2022.
 
-##Key findings:
+##Key findings
 1- The total sales in Q2 2022 was approximately 75,000,000 INR, with an average sale value of 82,840 INR. Around 70% of the sales were fulfilled by Amazon warehouse, while the rest were fulfilled by other merchants. B2C sales accounted for more than 99% of the total sales, with less than 1% being B2B.
 2- The highest sales value for the quarter was recorded on May 28, 2022, with a total of 1,165,038 INR, while the lowest sales value was recorded on April 30, 2022, with a total of 98,261 INR.
 
